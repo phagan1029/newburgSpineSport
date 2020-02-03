@@ -602,6 +602,7 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 50%;
   display: inline-block;
   background: #6f51c7;
+  
 }
 @media screen and (max-width: 768px) {
   .choose .half {

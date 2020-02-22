@@ -124,7 +124,7 @@ h1, h2, h3, h4, h5, h6, figure {
   vertical-align: middle;
   height: 60px;
   font-size: 24px;
-  color: #6f51c7;
+  color: #48B3e2 ;
 }
 .qbootstrap-nav .num p, .qbootstrap-nav .loc p {
   padding-left: 80px;
@@ -151,7 +151,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 .qbootstrap-nav #qbootstrap-logo a span {
-  color: #6f51c7;
+  color: #48B3e2;
 }
 .qbootstrap-nav #qbootstrap-logo a i {
   font-size: 38px;
@@ -255,14 +255,14 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff;
 }
 .qbootstrap-nav ul li.has-dropdown:hover a, .qbootstrap-nav ul li.has-dropdown:focus a {
-  color: #6f51c7;
+  color: #48B3e2;
 }
 .qbootstrap-nav ul li.btn-cta a {
   padding: 0 !important;
   color: #fff;
 }
 .qbootstrap-nav ul li.btn-cta a span {
-  background: #6f51c7;
+  background: #48B3e2;
   padding: 7px 15px;
   display: -moz-inline-stack;
   display: inline-block;
@@ -487,13 +487,13 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff;
 }
 .intro-grid.color-1 {
-  background: #6356E5;
+  background: #9BB0CB;
 }
 .intro-grid.color-2 {
-  background: #6f51c7;
+  background: #9CB9DB;
 }
 .intro-grid.color-3 {
-  background: #A82FFC;
+  background: #B0C4DD;
 }
 
 .services {
@@ -598,10 +598,12 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 100%;
   float: left;
 }
+
+
 .choose .half {
   width: 50%;
   display: inline-block;
-  background: #6f51c7;
+  background: grey;
   
 }
 @media screen and (max-width: 768px) {
